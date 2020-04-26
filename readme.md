@@ -4,6 +4,6 @@ This overview describes servless concept considering AWS serverless components a
 
 Creation Date: 27.04.2020
 
-###Source url:
+#### Reference
 https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/home/welcome
 
