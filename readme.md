@@ -1,6 +1,6 @@
 # AWS Serverless Fundamentals
 
-This overview describes servless concept considering AWS serverless components and services
+This overview describes serverless concept considering AWS serverless components and services
 
 Creation Date: 27.04.2020
 
